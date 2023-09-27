@@ -1,7 +1,2 @@
-#Role1.py 
-class Role1:
-    def __init__(self):
-        # Initialize attributes and role-specific data
-        pass
-
-    # Define role-specific methods if necessary
+def initialize_wizard():
+    return {"Strength": 0, "Dexterity": 2, "Intelligence": 3, "Health": 10}
